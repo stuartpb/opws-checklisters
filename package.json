@@ -1,0 +1,16 @@
+{
+  "name": "opws-checklisters",
+  "description": "Scripts to summarize aspects of OPWS profiles for checklists in issues",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/stuartpb/opws-checklisters.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stuartpb/opws-checklisters/issues"
+  },
+  "dependencies": {
+    "js-yaml": "~3.0.1",
+    "glob": "~3.2.7"
+  }
+}
